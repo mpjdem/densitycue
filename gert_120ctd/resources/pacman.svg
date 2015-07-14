@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="433.28pt"
+   height="480.89001pt"
+   viewBox="0 0 272 288"
+   id="svg1400"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="Pacman.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="988"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="0.86838979"
+     inkscape:cx="201.77028"
+     inkscape:cy="263.79639"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1400" />
+  <metadata
+     id="metadata1409">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1407" />
+  <g
+     transform="matrix(0.1,0,0,-0.1,0,288)"
+     id="g1402"
+     style="fill:#ffff1c;fill-opacity:1;stroke:none">
+    <path
+       d="M 1215,2869 C 893,2815 610,2665 392,2435 213,2246 97,2031 33,1770 -2,1628 -11,1362 15,1208 99,695 473,250 959,85 1134,25 1230,10 1428,9 c 202,0 296,13 458,66 295,97 549,284 733,543 53,75 109,178 100,186 -2,3 -290,147 -638,321 -553,276 -631,318 -615,329 11,7 297,151 636,322 340,170 618,315 618,321 0,13 -51,100 -104,178 -46,68 -153,189 -213,240 -72,63 -151,125 -158,125 -2,0 -30,16 -62,37 -128,82 -320,153 -502,187 -91,17 -377,20 -466,5 z"
+       id="path1404"
+       style="fill:#000000;fill-opacity:1" />
+  </g>
+</svg>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.2"
+   width="744.09448"
+   height="1052.3622"
+   id="svg2">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3801">
+      <stop
+         id="stop3803"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0" />
+    </linearGradient>
+    <linearGradient
+       x1="92.357002"
+       y1="330.59778"
+       x2="291.43805"
+       y2="330.59778"
+       id="linearGradient3805"
+       xlink:href="#linearGradient3801"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="92.357002"
+       y1="330.59778"
+       x2="291.43805"
+       y2="330.59778"
+       id="linearGradient3828"
+       xlink:href="#linearGradient3801"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(80.714286,-58.571429)" />
+    <font
+       horiz-adv-x="1024"
+       id="font3761" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-3.7662789e-6,-1.685089e-7)"
+     id="layer1">
+    <flowRoot
+       id="flowRoot2993"
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"><flowRegion
+         id="flowRegion2995"><rect
+           width="377.14285"
+           height="322.85715"
+           x="71.428574"
+           y="55.219326"
+           id="rect2997" /></flowRegion><flowPara
+         id="flowPara2999" /></flowRoot>    <g
+       id="g3767">
+      <path
+         d="m 349.29967,368.08622 c -0.29055,15.89894 0.6709,31.866 -0.67135,47.70947 -1.99925,14.5837 -17.16424,20.80187 -28.79078,26.59424 -32.60813,15.58845 -71.53131,18.93255 -105.89172,7.18675 -27.84152,-9.32784 -49.76015,-32.94698 -58.03773,-60.98919 -8.95125,-30.32712 -7.79968,-64.2875 5.53991,-93.17409 12.92108,-28.18006 41.51053,-46.7188 71.63995,-51.43201 30.89123,-5.08226 65.7791,-2.0128 90.53257,18.92663 10.92332,9.7534 21.03993,23.74986 19.06142,39.13425 -2.99971,16.42448 -25.82098,22.79252 -37.35455,11.13514 -8.92178,-10.94256 -15.15631,-25.60361 -29.5199,-30.69244 -22.38908,-8.09409 -50.98671,-2.28365 -64.94314,18.07435 -12.22957,17.578 -14.01647,40.03222 -12.88724,60.78556 2.72332,18.69211 9.48254,38.74562 26.34899,49.23549 20.99988,12.96848 48.09266,9.91382 69.98798,0.83157 5.70968,-2.44832 13.55421,-4.11978 11.29516,-11.78882 0,-7.32187 0,-14.64374 0,-21.96561 -13.61722,-0.41605 -27.39848,1.05977 -40.86797,-1.28614 -12.81627,-1.17556 -18.11042,-17.46112 -10.73818,-27.04699 7.66629,-10.49941 21.4383,-7.60781 32.66097,-8.03601 15.24952,0.38248 30.63252,-1.01461 45.75086,1.31222 12.13316,1.76847 17.4674,14.44756 16.88475,25.48563 z"
+         id="path3841"
+         style="font-size:288px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Rounded MT Bold;-inkscape-font-specification:'Arial Rounded MT Bold, Bold'" />
+    </g>
+  </g>
+</svg>

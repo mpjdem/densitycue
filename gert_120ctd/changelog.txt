@@ -1,0 +1,123 @@
+Version 1.XX
+------------
+
+GERT_PlaceElements_Snake
+	Fixed snake rotation parameter
+
+GERT_Transform_Rotate
+    Fixed rotation of GContour local tangents
+
+GERT_GenerateContour_FileSVG
+    Fixed bug when using whole numbers for the last coordinate
+
+GERT_CheckCue_LocalDensity
+    Added possibility of checking a range of radii
+
+Version 1.20 31/05/2013
+-----------------------
+
+Several files
+    	Adapted code to the changes made to set functions in R2013a
+
+@GElements
+	Added the rmid() function here as well
+
+@GLog
+	Added extra system information for Linux and Octave users
+	Does not require the fenv package anymore for Octave users
+
+GERT_CheckCue_LocalDensity
+    	Changed outputted p-value for RadCount so '1' means 'idx1 less dense'
+    	Added check that border_dist may not be smaller than rad
+
+GERT_Demo
+	Fixed IMAGE_PATH separator for Octave users under Linux
+
+GERT_DrawElement_Ellipse
+	Improved compatibility with older Matlab versions
+
+GERT_DrawElement_Image
+	Fixed IMAGE_PATH separator for Octave users under Linux
+
+GERT_DrawElement_Polygon
+	Fixed bug with colored elements, in case of a white FG or a black BG color
+	Improved compatibility with older Matlab versions
+
+GERT_GenerateContour_SVG
+	Fixed bug with smooth Bezier curves
+	Improved compatibility with older Matlab versions
+	Added a check so Octave users cannot read in discontinuous paths
+	Corrected the help: 1xN GContour array is returned when the SVG is discontinuous
+
+GERT_GenerateContour_TXT
+	There is now a strict requirement of two columns for Octave users
+
+GERT_PlaceElements_Contour
+	Drastically changed the equidistant methods:
+		- el_n can also be provided, instead of cont_avgdist
+		- Position jitter values are now a proportion of cont_avgdist
+		  Check the help to understand what they do
+    	Fixed a bug where open, equidistant contours would contain the first element twice	
+
+GERT_RenderDisplay
+	Fixed bug when n=1	
+
+GERT_Version
+    	Version information is now read from version.txt
+
+
+Version 1.11 02/03/2012
+-----------------------
+
+GERT_CheckCue_LocalDensity
+	Fixed a bug where border_dist was required to be an integer number
+
+GERT_PlaceElements_Background 
+	Elements are now placed correctly in a rectangular display
+	
+GERT_RenderDisplay
+	Global rendering no longer produces identical elements when no scalar constants have been defined in the element parameter structure
+
+
+Version 1.10 13/12/2011
+----------------------
+
+GERT_CheckCue_LocalDensity
+	Now involves all GElements points in computations, when only a subset is provided for the density comparison
+
+GERT_DrawElement_GContour
+	Elements are no longer flipped along the y-axis in this function (see GERT_GenerateContour_FileSVG)
+
+GERT_DrawElement_RadialGabor 
+	Added as a new drawing function
+
+GERT_GenerateContour_Ellipse.m
+	Fixed bug where rotated open contours would become closed
+
+GERT_GenerateContour_FileSVG
+	SVG contours are now automatically flipped along the y-axis
+
+GERT_GenerateContour_RFP
+	Fixed bug where rotated open contours would become closed
+
+GERT_PlaceElements_Background 
+	Default value for 'resolution' is now constant at 500
+	Background points are now shuffled afterwards to avoid serial effects in their positioning
+	Fixed a rounding error that could yield invalid converted coordinates in some situations
+
+GERT_PlaceElements_Contour
+	When using 'Random' placement, default value for 'resolution' is now constant at 500
+	When using 'Random' placement, fixed two rounding errors that could yield invalid converted coordinates in some situations
+	When using 'Random' placement, fixed a bug where vertical coordinates would be converted by the same ratio as horizontal coordinates
+
+GERT_RenderDisplay
+	Global rendering now also works properly with an empty element parameter struct
+
+GERT_Transform_Rotate 
+	Fixed so that the local tangents of GContour objects are now rotated as well
+
+
+Version 1.0 16/08/2011
+----------------------
+
+Original release

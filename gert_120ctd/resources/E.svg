@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.2"
+   width="744.09448"
+   height="1052.3622"
+   id="svg2">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3801">
+      <stop
+         id="stop3803"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0" />
+    </linearGradient>
+    <linearGradient
+       x1="92.357002"
+       y1="330.59778"
+       x2="291.43805"
+       y2="330.59778"
+       id="linearGradient3805"
+       xlink:href="#linearGradient3801"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="92.357002"
+       y1="330.59778"
+       x2="291.43805"
+       y2="330.59778"
+       id="linearGradient3828"
+       xlink:href="#linearGradient3801"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(80.714286,-58.571429)" />
+    <font
+       horiz-adv-x="1024"
+       id="font3761" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <flowRoot
+     transform="translate(-16.91901,-145.50345)"
+     id="flowRoot2993"
+     xml:space="preserve"
+     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"><flowRegion
+       id="flowRegion2995"><rect
+         width="377.14285"
+         height="322.85715"
+         x="71.428574"
+         y="55.219326"
+         id="rect2997" /></flowRegion><flowPara
+       id="flowPara2999" /></flowRoot>  <g
+     id="flowRoot3001"
+     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold">
+    <path
+       d="m 249.71875,569.90162 c -29.71582,0 -59.43164,0 -89.14746,0 0,14.66895 0,29.33789 0,44.00684 28.54913,0.11417 57.11243,-0.23094 85.6525,0.17726 11.04206,0.0522 20.38747,10.75215 17.56093,21.77897 -1.62183,10.99956 -13.60497,15.50256 -23.47725,14.55353 -26.57872,0 -53.15745,0 -79.73618,0 0,17.29102 0,34.58203 0,51.87305 31.65595,0.0547 63.31626,-0.10987 94.96947,0.083 10.35918,-0.10708 20.62805,8.19052 19.886,19.13865 0.70876,11.45123 -10.55075,19.4441 -21.18435,18.91974 -38.72834,-0.0212 -77.46261,0.14662 -116.18789,-0.0854 -10.30233,0.0576 -21.2905,-5.91399 -23.33541,-16.70633 -2.28492,-11.96732 -0.90317,-24.25789 -1.28356,-36.38364 0.0687,-43.35585 -0.13794,-86.71724 0.10427,-130.06961 -0.0473,-10.56404 6.36282,-21.62768 17.48488,-23.34335 11.82577,-2.09882 23.92977,-0.77266 35.88816,-1.14684 28.91915,0.11726 57.8527,-0.2372 86.76264,0.18209 10.50576,0.14243 20.11471,9.52835 18.34956,20.38493 -0.48381,11.44077 -12.04977,17.26738 -22.30631,16.63708 z"
+       id="path3010"
+       style="font-size:288px;line-height:100%;font-family:Arial Rounded MT Bold;-inkscape-font-specification:'Arial Rounded MT Bold, Bold'" />
+  </g>
+</svg>

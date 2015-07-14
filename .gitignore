@@ -1,0 +1,9 @@
+tmp
+.ipynb_checkpoints
+*.asv
+*~
+*.swp
+analysis/*/bootstrap_samples.mat
+simulation/*/*/sim_*.mat
+experiment/*/stims/*.mat
+analysis/*/res/figs
